@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**kkumar8850/kkumar8850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👋 Hi there, I’m Kuldeep Kumar!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Lead Frontend Engineer | 6+ years of experience in building dynamic web applications and scalable frontend solutions.
+
+👨‍💻 About Me
+	•	🎓 Bachelor of Technology in Computer Science from APJ Abdul Kalam Technical University
+	•	🔧 Expertise in React.js, Node.js, Next.js, JavaScript, HTML, CSS, and MySQL
+	•	💼 Currently leading the frontend team at Future HR Tech Pvt Ltd
+	•	🌟 Built Ikonwork, a robust job portal, as my key project at Future HR Tech
+	•	🔍 Passionate about building modern, user-friendly web interfaces
+
+ 💼 Experience
+	•	Future HR Tech Pvt Ltd (2021 - Present)
+	•	Role: Lead Frontend Engineer
+	•	Contributions: Frontend architecture design, team leadership, Ikonwork job portal development
+	•	McCoy Digital Pvt Ltd (Previous Role)
+	•	Role: Junior Software Engineer
+	•	Key Project: McCoy Mart Seller Panel
+	•	Focused on building client portals and managing company website frontend
+
+ ⚒️ Technical Skills
+	•	Languages & Frameworks: JavaScript, HTML, CSS, React.js, Node.js, Express, Next.js
+	•	Databases: MySQL, MongoDB
+	•	Tools & Platforms: Git, GitHub, VS Code, Postman
+	•	Methodologies: Agile, Scrum
+
+ 🌐 Let’s Connect
+	•	💼 LinkedIn
